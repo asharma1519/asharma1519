@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
-<h3 align="center">A passionate machine learning and data science student from India.</h3>
+<h3 align="center">A passionate data science and machine learning engineer from India.</h3>
 
 - 🔭 I’m currently working as a Decision Analytics Associate
 - 🌱 I’m currently learning **PySpark**
